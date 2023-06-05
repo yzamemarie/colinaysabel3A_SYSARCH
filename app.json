@@ -7,7 +7,7 @@
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/2_ccs_chest_print_transparent.png",
+      "image": "./assets/pixel_chick.jpg",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
